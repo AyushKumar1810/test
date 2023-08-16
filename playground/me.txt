@@ -1,0 +1,7 @@
+
+{{#user}
+Name: Ayush Kumar
+Skills: HTML, CSS, JS, react.js , Python , SQL 
+Email:ayushsri1810@gmail.com
+{{/user}}
+
